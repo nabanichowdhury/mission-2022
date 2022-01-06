@@ -1,0 +1,56 @@
+.stay-focused{
+    
+   
+    font-family: "Yeseva One";
+     font-size: 35px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 300;
+     line-height: 40.5px;
+    
+    
+    margin-top: 20%;
+    margin-left: 20%;
+    border-left: 5px solid rgb(243, 113, 66);
+    padding-left: 15px;
+    border-radius: 4px;
+}
+.orange{
+    color: rgb(245, 179, 57);
+    
+}
+.deep-grey{
+    color: rgb(58, 57, 57);
+}
+
+
+.half-width{
+    width: 50%;
+}
+
+.firstpara{
+    margin-left: 20%;
+    margin-bottom: 4%;
+    
+    font-family: Poppins;
+}
+
+.button{
+    background-color: rgb(243, 113, 66);
+    text-decoration: none;
+    color: white;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    
+    padding: 10px 30px;
+    
+    border-radius: 6px;
+}
+.firstimage{
+    width:30%;
+    margin-left:60%;
+    margin-top:-80%;
+   
+}
+
+
