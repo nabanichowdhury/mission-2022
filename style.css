@@ -40,7 +40,7 @@
     text-decoration: none;
     color: white;
     margin-top: 20%;
-    margin-bottom: 20%;
+    /* margin-bottom: 0%; */
     
     padding: 10px 30px;
     
@@ -67,6 +67,7 @@
 .secondparabox{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
+    padding-bottom: 3%;
     
    
 
@@ -119,13 +120,14 @@
      margin-top: 14%; 
     font-weight: 450;
     font-size: 22px;
+    line-height: 20px;
     /* margin-left: 20%; */
 
 }
 .thirdpara{
-    margin-left: 32%;
+    margin-left: 20%;
     font-family:'Poppins', sans-serif ;
-    margin-top: 9%;
+    margin-top: 4%;
     width: 500px;
 
 }
@@ -135,8 +137,81 @@
     background-repeat: no-repeat;
     background-position: 50px 120px;
 }
+.fourthheader{
+    font-family:'Poppins', sans-serif ;
+    
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px; 
+}
+.fourthpara{
+    margin-left: 10%;
+    margin-top: 10%;
+    height: 300px;
+    width: 700px;
+    font-family: 'Poppins', sans-serif;
+}
+.fourthimage{
+    width: 351px;
+    margin-left: none;
+    margin-top: 82px;
+}
+.fourthpara2{
+    margin-bottom: 20px;
+}
+.bgimage2{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+.lastheader{
+    font-family:'Poppins', sans-serif ;
+    
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.lastimage{
+    width: 400px;
+    margin-left: 24%;
+    margin-top: 10%;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+.lastpara{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 13%;
+    margin-top: 3%;
+}
+.lastheader2{
+    font-size: 20px;
+}
+.footer{
+ text-align: center;
+padding: 9px;
+background-color: rgb(39, 33, 63);
+color: white;
+margin-top: 10%;
+line-height: 3px;
 
+font-family: 'Poppins', sans-serif;
 
+}
+.footerheader{
+    font-family: 'The Nautigal', cursive;
+    font-size: 40px;
+    font-weight: 400;
 
+}
+body{
+    margin: 0;
+    
+}
+.pink{
+    color: rgb(223, 26, 118);
+}
 
 
