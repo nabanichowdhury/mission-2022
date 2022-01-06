@@ -108,6 +108,35 @@
 .secondimages{
     width: 128px;
 }
+ .thirdimage{
+    width: 342px;
+    margin-left: 38%;
+    margin-top: 20%;
+    
+} 
+.thirdheader{
+    font-family: 'Poppins', sans-serif;
+     margin-top: 14%; 
+    font-weight: 450;
+    font-size: 22px;
+    /* margin-left: 20%; */
+
+}
+.thirdpara{
+    margin-left: 32%;
+    font-family:'Poppins', sans-serif ;
+    margin-top: 9%;
+    width: 500px;
+
+}
+.bgimage{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 50px 120px;
+}
+
+
 
 
 
