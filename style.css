@@ -80,6 +80,8 @@
     /* height: 350px; */
     padding-top: 2%;
     padding-right: 2%;
+    width: 800px;
+    padding-bottom: 3%;
 
 }
 .vission{
@@ -91,6 +93,8 @@
     /* height: 350px; */
     padding-top: 2%;
     padding-right: 2%;
+    width: 800px;
+    padding-bottom: 3%;
     
     
 
@@ -104,6 +108,8 @@
     /* height: 350px; */
     padding-top: 2%;
     padding-right: 2%;
+    width: 800px;
+    padding-bottom: 3%;
 
 }
 .secondimages{
@@ -158,6 +164,7 @@
 }
 .fourthpara2{
     margin-bottom: 20px;
+    margin-right: 5%;
 }
 .bgimage2{
     background-image: url(images/shapes/shape-1.png);
@@ -185,6 +192,7 @@
     font-family: 'Poppins', sans-serif;
     margin-left: 13%;
     margin-top: 3%;
+    margin-right: 4%;
 }
 .lastheader2{
     font-size: 20px;
