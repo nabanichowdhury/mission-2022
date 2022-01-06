@@ -52,5 +52,62 @@
     margin-top:-80%;
    
 }
+.second-header{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 32%;
+    margin-top: 5%;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(13, 3, 49);
+
+}
+.flexible{
+    display: flex;
+}
+.secondparabox{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    
+   
+
+}
+.mission{
+    background-color: rgb(252, 218, 203);
+    margin-left: 10%;
+    border-radius: 20px;
+    padding-left: 3%;
+    /* height: 350px; */
+    padding-top: 2%;
+    padding-right: 2%;
+
+}
+.vission{
+    background-color: rgb(245, 220, 242);
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 20px;
+    padding-left: 3%;
+    /* height: 350px; */
+    padding-top: 2%;
+    padding-right: 2%;
+    
+    
+
+
+}
+.goals{
+    background-color: rgb(235, 243, 250);
+    margin-right: 9%;
+    border-radius: 20px;
+    padding-left: 3%;
+    /* height: 350px; */
+    padding-top: 2%;
+    padding-right: 2%;
+
+}
+.secondimages{
+    width: 128px;
+}
+
 
 
